@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MDCViewPager_Tests' do
+  pod 'MDCViewPager', :path => '../'
+  
+  
+end
