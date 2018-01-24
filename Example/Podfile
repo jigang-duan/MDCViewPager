@@ -1,6 +1,9 @@
+platform :ios, '8.0'
+
 use_frameworks!
 target 'MDCViewPager_Tests' do
   pod 'MDCViewPager', :path => '../'
+  pod 'MDCViewPager/RxSwift', :path => '../'
   
   
 end

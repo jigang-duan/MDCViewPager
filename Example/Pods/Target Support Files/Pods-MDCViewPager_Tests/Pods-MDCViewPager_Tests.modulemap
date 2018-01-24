@@ -1,0 +1,6 @@
+framework module Pods_MDCViewPager_Tests {
+  umbrella header "Pods-MDCViewPager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

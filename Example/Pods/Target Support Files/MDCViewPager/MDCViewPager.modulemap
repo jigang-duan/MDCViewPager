@@ -1,0 +1,6 @@
+framework module MDCViewPager {
+  umbrella header "MDCViewPager-umbrella.h"
+
+  export *
+  module * { export * }
+}
