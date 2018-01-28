@@ -76,11 +76,11 @@ public class MDCHeaderPageView: UIView {
         self.labelString = title
         self.descString = desc
         self.imageURL = image
+        commonInit()
     }
     
     override public init(frame: CGRect) {
         super.init(frame: frame)
-        commonInit()
     }
     
     required public init?(coder aDecoder: NSCoder) {
