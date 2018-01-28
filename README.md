@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/MDCViewPager.svg?style=flat)](http://cocoapods.org/pods/MDCViewPager)
 [![Platform](https://img.shields.io/cocoapods/p/MDCViewPager.svg?style=flat)](http://cocoapods.org/pods/MDCViewPager)
 
+
+A simple view pager for Swift. Compatible with iOS 8.0 or later.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -18,6 +21,7 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'MDCViewPager'
+pod 'MDCViewPager/RxSwift'
 ```
 
 ## Author
